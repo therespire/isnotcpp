@@ -1,3 +1,5 @@
+#include <string>
+
 // int: ~ -2kkk to 2kkk
 int max = 1300;
 int cleans = 0;
@@ -20,3 +22,6 @@ yellowLamp = true;
 
 // char: text type
 char info = "text data type";
+
+// string (not default type - #include <string>)
+std::string message = "hello from hospital";
