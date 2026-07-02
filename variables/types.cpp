@@ -2,3 +2,8 @@
 int max = 1300;
 int cleans = 0;
 int level = 1;
+
+// float: like 3.14 (6 numbers) and double type: 3.1415926 (15 numbers)
+float calc = 120.34;
+float woah = 3.14;
+double who = 3.1415926;
