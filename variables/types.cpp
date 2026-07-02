@@ -7,3 +7,13 @@ int level = 1;
 float calc = 120.34;
 float woah = 3.14;
 double who = 3.1415926;
+
+// bool: logic, true or false
+bool redLamp = false;
+bool greenLamp = true;
+bool yellowLamp = false;
+
+greenLamp = false;
+
+redLamp = true;
+yellowLamp = true;
