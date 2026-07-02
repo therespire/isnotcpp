@@ -17,3 +17,6 @@ greenLamp = false;
 
 redLamp = true;
 yellowLamp = true;
+
+// char: text type
+char info = "text data type";
